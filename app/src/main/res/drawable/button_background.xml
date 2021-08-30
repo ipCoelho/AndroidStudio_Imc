@@ -4,7 +4,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <solid
-        android:color="#122AA5"
+        android:color="#3C57DC"
         />
 
     <stroke
